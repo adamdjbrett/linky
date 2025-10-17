@@ -1,7 +1,7 @@
 # Linky
-Created by: [@shanerobinson/linkist](https://github.com/shanerobinson/linkist)
-Modifed by: [Adam DJ Brett](https://adamdjbrett.com)
-Demo: [aila.social](https://aila.social)
+- Created by: [@shanerobinson/linkist](https://github.com/shanerobinson/linkist)
+- Modifed by: [Adam DJ Brett](https://adamdjbrett.com)
+- Demo: [aila.social](https://aila.social)
 
 For Link Lists
 
