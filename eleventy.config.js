@@ -21,6 +21,7 @@ export default async function(eleventyConfig) {
 		.addPassthroughCopy({
 			"./public/": "/"
 		})
+		.addPassthroughCopy("./content/humans.txt", "/humans.txt")
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
 
 eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
