@@ -1,4 +1,4 @@
-# Linky
+# Linky AKA 11ty Socials
 - Created by: [@shanerobinson/linkist](https://github.com/shanerobinson/linkist)
 - Modifed by: [Adam DJ Brett](https://adamdjbrett.com)
 - Demo: [aila.social](https://aila.social)
